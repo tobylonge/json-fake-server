@@ -1,22 +1,32 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "bruno",
-        "email": "bruno@email.com",
-        "password": "bruno"
-      },
-      {
-        "id": 2,
-        "name": "techie",
-        "email": "techie@email.com",
-        "password": "techie"
-      },
-      {
-        "id": 3,
-        "name": "nilson",
-        "email": "nilson@email.com",
-        "password": "nilson"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "bruno",
+      "username": "user001",
+      "password": "password001",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "name": "techie",
+      "username": "user002",
+      "password": "password002",
+      "role": 2
+    },
+    {
+      "id": 3,
+      "name": "nilson",
+      "username": "user003",
+      "password": "password003",
+      "role": 1
+    },
+    {
+      "id": 4,
+      "name": "david",
+      "username": "user004",
+      "password": "password004",
+      "role": 2
+    }
+  ]
+}
