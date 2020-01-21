@@ -2,10 +2,10 @@
   "name": "json-server-api",
   "version": "1.0.0",
   "description": "Simple Fake API",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "start-auth": "node server.js"
+    "dev": "nodemon server.js"
   },
   "author": "ME:)",
   "license": "ISC",
