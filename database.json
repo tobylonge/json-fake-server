@@ -1,84 +1,76 @@
 {
-  "products": [
+  "cellreport": [
     {
       "id": 1,
-      "name": "Product001",
-      "cost": 10.0,
-      "quantity": 1000,
-      "locationId" : 1,
-      "familyId" : 1
+      "Report_ID": "CC111111072015",
+      "Cell_ID": "001",
+      "Cell_Code": "CC121121",
+      "Cell_Leader": "DCC/023423",
+      "Member_Present": 10,
+      "Guests_Card": 1,
+      "Decisions_Card": 0,
+      "Guests_Visited": 1,
+      "Members_Physical": 10,
+      "Decisions_Visited": 1,
+      "Members_Phone": 5,
+      "Members_SMS": 5,
+      "Members_Email": 6,
+      "No_Meeting_Held": 0,
+      "Offering_Paid": 500,
+      "Holy_Ghost_Baptism": 0,
+      "Community_Service": 0,
+      "Community_Project": 0,
+      "Less_Priviledge": 0,
+      "Cell_Leader_Visitation": 0,
+      "Cell_Members_Visitation": 0,
+      "New_Cell": 0,
+      "Converts": 0,
+      "Guests": 3,
+      "Programme_Outreach": 0,
+      "Comments": "",
+      "Meeting_Date": "",
+      "Meeting_Week": "",
+      "Post_Date": "",
+      "BatchNo": 0,
+      "Channel": "mobile",
+      "Reference_ID": 0,
+      "Approval_Given": true
     },
     {
       "id": 2,
-      "name": "Product002",
-      "cost": 20.0,
-      "quantity": 2000,
-      "locationId" : 1,
-      "familyId" : 2
-    },   
-    {
-      "id": 3,
-      "name": "Product003",
-      "cost": 30.0,
-      "quantity": 3000,
-      "locationId" : 3,
-      "familyId" : 2     
-    },
-    {
-      "id": 4,
-      "name": "Product004",
-      "cost": 40.0,
-      "quantity": 4000,
-      "locationId" : 2,
-      "familyId" : 3
+      "Report_ID": "CC111111072015",
+      "Cell_ID": "001",
+      "Cell_Code": "CC121121",
+      "Cell_Leader": "DCC/023423",
+      "Member_Present": 10,
+      "Guests_Card": 1,
+      "Decisions_Card": 0,
+      "Guests_Visited": 1,
+      "Members_Physical": 10,
+      "Decisions_Visited": 1,
+      "Members_Phone": 5,
+      "Members_SMS": 5,
+      "Members_Email": 6,
+      "No_Meeting_Held": 0,
+      "Offering_Paid": 500,
+      "Holy_Ghost_Baptism": 0,
+      "Community_Service": 0,
+      "Community_Project": 0,
+      "Less_Priviledge": 0,
+      "Cell_Leader_Visitation": 0,
+      "Cell_Members_Visitation": 0,
+      "New_Cell": 0,
+      "Converts": 0,
+      "Guests": 3,
+      "Programme_Outreach": 0,
+      "Comments": "",
+      "Meeting_Date": "",
+      "Meeting_Week": "",
+      "Post_Date": "",
+      "BatchNo": 0,
+      "Channel": "mobile",
+      "Reference_ID": 0,
+      "Approval_Given": true
     }
-  ],
-  "locations":[
-    {
-      "id": 1,
-      "name": "Location001"
-    },
-    {
-      "id": 2,
-      "name": "Location002"
-    },
-    {
-      "id": 3,
-      "name": "Location003"
-    }
-  ],
-  "families":[
-    {
-      "id": 1,
-      "name": "FM001"
-    },
-    {
-      "id": 2,
-      "name": "FM002"
-    },
-    {
-      "id": 3,
-      "name": "FM003"
-    }
-  ],
-  "transactions":[
-    {
-      "id": 1,
-      "cost":11,
-      "quantity":10,
-      "productId":1
-    },
-    {
-      "id": 2,
-      "cost":12,
-      "quantity":100,
-      "productId":2
-    },    
-    {
-      "id": 3,
-      "cost":15,
-      "quantity":101,
-      "productId":3
-    }  
   ]
 }
